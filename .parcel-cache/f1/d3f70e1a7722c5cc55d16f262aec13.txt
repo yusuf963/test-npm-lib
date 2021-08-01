@@ -1,0 +1,15 @@
+14
+57C:\developement\lib-test\node_modules\y-shadow-box\app.js121436361000000000 0
+50C:\developement\lib-test\node_modules\y-shadow-box132716017179278736 1
+31C:\developement\lib-test\app.js132723273538654094 0
+37C:\developement\lib-test\package.json132716017179388251 0
+42C:\developement\lib-test\package-lock.json132716017179478277 0
+29C:\developement\lib-test\dist132723273540008785 1
+35C:\developement\lib-test\index.html132723244252752917 0
+37C:\developement\lib-test\node_modules132716017179328286 1
+33C:\developement\lib-test\ttest.js132723272443008180 0
+63C:\developement\lib-test\node_modules\y-shadow-box\package.json132716017179228253 0
+60C:\developement\lib-test\node_modules\y-shadow-box\README.md121436361000000000 0
+47C:\developement\lib-test\dist\index.1397955d.js132723273539978747 0
+51C:\developement\lib-test\dist\index.1397955d.js.map132723273540000184 0
+40C:\developement\lib-test\dist\index.html132723273539978420 0

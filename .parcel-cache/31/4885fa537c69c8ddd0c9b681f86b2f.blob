@@ -1,0 +1,5 @@
+var _ttest = require('./ttest');
+_ttest.shadowbox({
+  shadow_type: 'hard',
+  padding: true
+});

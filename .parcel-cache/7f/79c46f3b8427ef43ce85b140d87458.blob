@@ -1,0 +1,9 @@
+var _ttest = require('./ttest');
+_ttest.shadowbox({
+  shadow_type: 'soft',
+  shadow_color: 'rgba(3,34,23,0.7)',
+  padding: true
+});
+const name = ['ssssara', 'john', 'Yusuf', 1234];
+console.log(name[_ttest.randomNumber(0, name.length - 1)]);
+console.log(_ttest.validatePassword('.-berjvg1dM___'));

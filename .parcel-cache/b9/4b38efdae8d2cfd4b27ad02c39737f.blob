@@ -1,0 +1,6 @@
+var _yShadowBox = require('y-shadow-box');
+_yShadowBox.shadowbox({
+  shadow_type: 'soft',
+  padding: true
+});
+alert('Hello, world!');

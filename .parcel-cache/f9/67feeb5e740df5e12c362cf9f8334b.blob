@@ -1,0 +1,6 @@
+var _yShadowBox = require('y-shadow-box');
+console.log(_yShadowBox.shadowbox);
+_yShadowBox.shadowbox({
+  shadow_type: 'hard',
+  padding: true
+});

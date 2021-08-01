@@ -1,0 +1,5 @@
+var _ = require('');
+_.shadowbox({
+  shadow_type: 'hard',
+  padding: true
+});

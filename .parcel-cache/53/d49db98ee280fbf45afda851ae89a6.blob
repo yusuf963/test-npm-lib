@@ -1,0 +1,8 @@
+var _yShadowBox = require('y-shadow-box');
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+var _yShadowBoxDefault = _parcelHelpers.interopDefault(_yShadowBox);
+console.log(_yShadowBoxDefault.default);
+_yShadowBoxDefault.default({
+  shadow_type: 'hard',
+  padding: true
+});

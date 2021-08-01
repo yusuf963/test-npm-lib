@@ -1,0 +1,6 @@
+var _ttest = require('./ttest');
+_ttest.shadowbox({
+  shadow_type: 'hard',
+  padding: true
+});
+const name = ['ssssara', 'john', 'Yusuf', 1234];

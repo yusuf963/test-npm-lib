@@ -1,0 +1,5 @@
+// import {shadowbox}  from 'y-shadow-box'
+shadowbox({
+    shadow_type: 'hard',
+    padding: true
+})
